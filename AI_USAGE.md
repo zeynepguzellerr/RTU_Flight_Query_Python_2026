@@ -35,3 +35,10 @@ No AI tools were used.
 
 ## What I changed or verified myself
 
+I uploaded the project files to my GitHub repository, entered my student information.
+All 29 public tests passed successfully. I also tested the command-line program with the provided
+sample data. It generated 7 valid flight records,
+logged 12 validation errors, and produced the expected
+query response file.
+The public tests passed, but the hidden tests have
+not been evaluated.
