@@ -20,7 +20,7 @@ from query import run_queries
 # TODO: fill in your details: plain ASCII, no spaces or underscores.
 STUDENT_ID = "231ADB274"
 FIRST_NAME = "Zeynep"
-LAST_NAME = "Hatice Guzeller"
+LAST_NAME = "HaticeGuzeller"
 
 
 def _reject_json_constant(value: str):
